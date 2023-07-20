@@ -1,0 +1,2 @@
+1. เข้าไปที่ไฟล์  app.py
+2. run terminal แล้วพิมพ์   python app.py (เลือกหา path ที่ save ไฟล์ไว้)
